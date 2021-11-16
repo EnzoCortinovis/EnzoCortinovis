@@ -1,5 +1,5 @@
 ### Hi there 👋
-##🔭 I’m currently working on TRAPMANIA & KARTVR.
+## 🔭 I’m currently working on TRAPMANIA & KARTVR.
 
 ![giphy](https://user-images.githubusercontent.com/62743238/141954987-64b2881e-1bcd-439b-826f-1b32b23ee401.gif)
 
