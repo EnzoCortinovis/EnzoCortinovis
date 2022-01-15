@@ -2,7 +2,7 @@
 ![giphy](https://user-images.githubusercontent.com/62743238/141954987-64b2881e-1bcd-439b-826f-1b32b23ee401.gif)
 
 ### 🔭 currently working on TRAPMANIA & KARTVR.
-
+### 📫 How to reach me: enzo.cortinovis@gmail.com
 
 <!--
 **EnzoCortinovis/EnzoCortinovis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
