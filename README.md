@@ -1,7 +1,7 @@
 ### Hi there 👋
-![giphy](https://user-images.githubusercontent.com/62743238/141954987-64b2881e-1bcd-439b-826f-1b32b23ee401.gif)
+![](invisibleman.gif)
 
-### 🔭 currently working on TRAPMANIA & KARTVR.
+### 🔭 currently working on KARTVR & studies.
 ### 📫 How to reach me: enzo.cortinovis@gmail.com
 
 <!--
