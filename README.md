@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](invisibleman.gif)
 
-### 🔭 currently working on KARTVR & studies.
+### 🔭 currently working on Augmented Reality & studies.
 ### 📫 How to reach me: enzo.cortinovis@gmail.com
 
 <!--
