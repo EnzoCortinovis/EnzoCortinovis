@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](invisibleman.gif)
 
-### 🔭.
+### 🔭Currently working for Skiply and studies.
 ### 📫 How to reach me: enzo.cortinovis@gmail.com
 
 <!--
