@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](invisibleman.gif)
 
-### 🔭Currently doing GAMAGORA's master's degree.
+### 🔭Currently doing a video games master's degree at Lyon 2 University.
 ### 📫 How to reach me: enzo.cortinovis@gmail.com
 
 <!--
