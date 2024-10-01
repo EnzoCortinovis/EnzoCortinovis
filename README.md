@@ -1,10 +1,9 @@
 ### Hi there 👋
 ![](invisibleman.gif)
 
-### 🔭Currently doing a video games master's degree at Lyon 2 University.
+### 🔭Just finished my video games master's degree at Lyon 2 University. Looking for opportunities in this field.
 ### 📫 How to reach me: enzo.cortinovis@gmail.com
-
-Working on gitlab in 2024 !
+### 🏮 Mainly working on gitlab in 2024 !
 
 <!--
 **EnzoCortinovis/EnzoCortinovis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
