@@ -2,7 +2,7 @@
 ![](invisibleman.gif)
 
 ### 🔭Just finished my video games master's degree at Lyon 2 University. Looking for opportunities in this field.
-### 📫 How to reach me: enzo.cortinovis@gmail.com
+### 📫 How to reach me: enzocorti.pro@gmail.com
 ### 🏮 Mainly working on gitlab in 2024 !
 
 <!--
